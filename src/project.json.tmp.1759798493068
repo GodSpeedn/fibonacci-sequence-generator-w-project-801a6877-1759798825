@@ -1,0 +1,24 @@
+{
+  "project_id": "801a6877",
+  "project_name": "fibonacci_sequence_generator_w_project_801a6877",
+  "task_description": "Fibonacci sequence generator with documentation",
+  "conversation_id": "test_direct_1759798491",
+  "created_at": "2025-10-07T11:54:53.058459",
+  "files": {
+    "src": [
+      {
+        "filename": "fibonacci_generator.py",
+        "filepath": "generated\\projects\\fibonacci_sequence_generator_w_project_801a6877\\src\\fibonacci_generator.py",
+        "created_at": "2025-10-07T11:54:53.068460",
+        "size": 406,
+        "lines": 18,
+        "encoding": "utf-8",
+        "syntax_valid": true
+      }
+    ],
+    "tests": [],
+    "docs": []
+  },
+  "github_repo": null,
+  "status": "active"
+}
